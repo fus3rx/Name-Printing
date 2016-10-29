@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Name Printing\Name Printing\bin\Debug\Name Printing.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Name Printing\Name Printing\bin\Debug\Name Printing.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Name Printing\Name Printing\bin\Debug\Name Printing.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Name Printing\Name Printing\obj\Debug\Name Printing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Name Printing\Name Printing\obj\Debug\Name Printing.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Name Printing\Name Printing\obj\Debug\Name Printing.pdb
