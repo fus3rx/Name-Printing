@@ -4,8 +4,6 @@ namespace Name_Printing
 {
     class Program
     {
-    
-
         static void Main(string[] args)
         {
             String firstName;
